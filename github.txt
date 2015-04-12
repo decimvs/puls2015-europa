@@ -1,1 +1,2 @@
-Arxiu de prova per a GitHub
+Arxiu de prova per a GitHub.
+Afegim una nova linea per a fer les pertinents proves de versións d'arxiu.
